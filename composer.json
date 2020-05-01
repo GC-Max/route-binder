@@ -3,7 +3,7 @@
   "description": "Laravel route binding, done right.",
   "autoload": {
     "psr-4": {
-      "Jaybizzle\\RouteBinder\\": "src/"
+      "LaravelBA\\RouteBinder\\": "src/"
     }
   },
   "autoload-dev": {
